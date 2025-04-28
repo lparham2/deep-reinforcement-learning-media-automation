@@ -1,4 +1,4 @@
-# Deep RL Media Automation
+# Deep Reinforcement Learning Media Automation
 
 ## Project Description
 This project explores how deep learning and reinforcement learning can automate media content creation and optimize interactive system behaviors. Built for **MSA 8600: Deep Learning and Generative AI** at **Georgia State University**, part of the **Master of Science in Data Science & Analytics** program, under **Professor Yanqing Wang**.
